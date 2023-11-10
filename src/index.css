@@ -5,3 +5,7 @@
 body {
   user-select: none;
 }
+
+::cue {
+  font-size: 20pt;
+}
